@@ -45,17 +45,9 @@
 
 * You can add any attachment such as images, videos, gifs, which will help in understanding the issue
 
-## Test Cases
-
-* (Clear step-by-step test cases)
-
 ## Technical Notes
 
 * (Track any technical details worth preserving, such as DB queries, screenshots of logs etc…)
-
-## Related Items & Feedback
-
-* (Link spicework tickets, email conversations, feedback sessions etc...)
 
 ## Root Cause Analysis
 
