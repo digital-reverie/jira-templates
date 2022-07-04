@@ -28,6 +28,11 @@
 ## Test Cases
 
 * (Clear step-by-step test cases)
+* The user navigates to Gmail.com.
+* In the ’email’ field, the user enters a registered email address.
+* The user clicks the ‘Next’ button.
+* The user enters the registered password.
+* The user clicks ‘Sign In.’
 
 ## Technical Notes
 
