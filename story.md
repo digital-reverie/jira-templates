@@ -8,7 +8,6 @@
 * Reporting BA     → *_Person_*
 * Primary Dev       → *_Person_*
 * QA Signoff         → *_Person and Date Signed_*
-* UAT Signoff        → *_Person and Date Signed_*
 
 ## Impact/Urgency
 
