@@ -17,7 +17,7 @@
 * Operating system: OS X 10.20
 * Browser: Chrome
 
-##Whitelabel
+## Whitelabel
 
 ## Full Description & Acceptance Criteria
 
