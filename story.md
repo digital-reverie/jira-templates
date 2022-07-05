@@ -13,6 +13,12 @@
 
 * (Describe the business impact of this feature - eg. without this, finance users are losing 2hr/week to tedious manual task XYZ.  Don’t forget to populate priority field)
 
+## Environment
+* Operating system: OS X 10.20
+* Browser: Chrome
+
+##Whitelabel
+
 ## Full Description & Acceptance Criteria
 
 * (More detailed description, including user flow and steps , *including* *_inline_* *screenshots and/or gifs*.  Acceptance criteria must be clearly outlined before dev work can start)
