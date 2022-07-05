@@ -22,7 +22,7 @@
 * Enhancement: Request for a new feature or some enhancement in the existing one.
 
 ## Environment
-
+* Whitelabel Product: InfoGathers
 * Operating system: OS X 10.20
 * Browser: Chrome
 
